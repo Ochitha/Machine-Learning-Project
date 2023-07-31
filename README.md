@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Created a detailed report explaining the analysis from the machine learning models built using 3 different datasets for Unsupervised learning, Regression and Classification tasks. Further, research questions were introduced followed by literature reviews to answer each problem. The links for each dataset are provided in the compiled notebook under Task 1, 2 and 3.
+Created a detailed report explaining the analysis from the machine learning models built using 3 different datasets for Unsupervised learning, Regression and Classification tasks. Further, research questions were introduced followed by literature reviews to answer each problem. The links for each dataset are provided in the compiled notebook under Tasks 1, 2 and 3.
 
 All the models were built using python.
 
