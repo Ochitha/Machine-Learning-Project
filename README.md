@@ -1,7 +1,7 @@
 # Machine-Learning-Project
 Machine learning models were created for Unsupervised learning, Regression and Classification tasks using different datasets for each. Further, research questions were introduced followed by literature reviews to answer these problem, all highlighted in a detailed report. The links for each dataset are provided in the compiled notebook under Tasks 1, 2 and 3.
 
-All the models were built using python.
+All the models were built using Python.
 
 
 Task 1 (Unsupervised learning) makes use of the shop customer dataset which represents a thorough examination of an imaginative store’s hypothetical clients, containing 2000 observations and 8 variables, such as customer ID, Age, Annual Income in $ and Profession. Principal Component Analysis was used as a dimension reduction technique for the data and helped identify the most important components. K-Means clustering was also used to find clusters between each of the identified principal components.
